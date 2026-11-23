@@ -1,0 +1,7 @@
+# Dados do programa: nunca devem ir para o GitHub (podem conter dados de clientes)
+dados/
+*.db
+*.sqlite
+*.csv
+__pycache__/
+*.pyc
